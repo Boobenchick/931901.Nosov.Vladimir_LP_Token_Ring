@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\bin\Debug\net6.0\Nosov_Token_Ring.exe
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\bin\Debug\net6.0\Nosov_Token_Ring.deps.json
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\bin\Debug\net6.0\Nosov_Token_Ring.runtimeconfig.json
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\bin\Debug\net6.0\Nosov_Token_Ring.dll
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\bin\Debug\net6.0\Nosov_Token_Ring.pdb
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.AssemblyInfo.cs
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.dll
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\refint\Nosov_Token_Ring.dll
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.pdb
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\Nosov_Token_Ring.genruntimeconfig.cache
+C:\Users\User\source\repos\Nosov_Token_Ring\Nosov_Token_Ring\obj\Debug\net6.0\ref\Nosov_Token_Ring.dll

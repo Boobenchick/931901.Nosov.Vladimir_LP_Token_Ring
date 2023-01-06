@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nosov_Token_Ring/1.0.0": {
+        "runtime": {
+          "Nosov_Token_Ring.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nosov_Token_Ring/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
